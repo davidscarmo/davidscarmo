@@ -1,4 +1,4 @@
-![LodoDJS](https://user-images.githubusercontent.com/43228973/123880447-0ec2f680-d919-11eb-876d-d66eae51ed47.png)
+![LodoDJS](https://user-images.githubusercontent.com/43228973/124213613-466fa100-dac7-11eb-83fa-428fb7435672.png)
 ### Hello there! 👋
 
 Tecnólogo em Sistemas para Internet pela Fatec - Jales, desenvolvedor React em construção e apaixonado pela linguagem JavaScript.💛
