@@ -5,9 +5,9 @@ Tecnólogo em Sistemas para Internet pela Fatec - Jales, desenvolvedor React em 
 
 Atualmente focado em React.🎯
 
-Aluno Ignite - Trilha ReactJS da Rocketseat.🚀 
+Aluno Ignite - Trilha ReactJS da Rocketseat.🚀[Concluído] 
 
-Dev Trainee no Grupo FCamara🧡.👨‍💻
+Dev Jr no Grupo FCamara🧡.👨‍💻
 
 ## 💻 Tecnologias e Ferramentas 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
