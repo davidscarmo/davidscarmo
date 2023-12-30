@@ -1,13 +1,7 @@
 ![LodoDJS](https://user-images.githubusercontent.com/43228973/124213613-466fa100-dac7-11eb-83fa-428fb7435672.png)
 ### Hello there! 👋
 
-Tecnólogo em Sistemas para Internet pela Fatec - Jales, desenvolvedor React em construção e apaixonado pela linguagem JavaScript.💛
-
-Atualmente focado em React.🎯
-
-Aluno Ignite - Trilha ReactJS da Rocketseat.🚀[Concluído] 
-
-Dev Jr no Grupo FCamara🧡.👨‍💻
+Front-end developer with more than 2 years of experience in Next.js/React, I specialize in responsive development with a mobile-first approach. I have actively contributed to the establishment of front-end development standards and have experience working with agile methodologies throughout project lifecycles.
 
 ## 💻 Tecnologias e Ferramentas 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
